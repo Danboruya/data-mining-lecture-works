@@ -166,4 +166,4 @@ dmypy.json
 ## For private
 /data
 /tutorials
-
+*.tsv
