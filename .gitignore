@@ -169,3 +169,4 @@ dmypy.json
 *.tsv
 state*
 Runs/
+*.hdf5
